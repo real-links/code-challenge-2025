@@ -10,7 +10,7 @@ Please clone the repository and [email a link to your completed project to the E
 
 ## User Story
 
-- As a user
+- As a logged in user
 - When I enter a string of characters into the input field
 - If there are matching anagrams, I want to see a list of those words (including the input, if it is a valid word)
 - If there are no matching anagrams, I want the lack of matches to be clearly communicated
@@ -27,6 +27,13 @@ An anagram is defined as a word formed by rearranging the letters of a different
 - The user can enter a string of characters into an input field.
 - The user can see a list of anagrams of the input string.
 - The user can see a message if there are no anagrams of the input string.
+
+### UI
+
+- Hide the anagram listing feature behind an authentication guard
+- Only allow users to log in with a "Login with Gmail" button
+- Use a modern UI library and framework prefereably Next.js with HeroUI
+- Make sure that the UI is very intuitive and easy to interact with
 
 ### Test Cases
 
