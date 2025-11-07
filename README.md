@@ -4,7 +4,7 @@ Thank you for your interest in a position with the Engineering team at Real Link
 
 In this repository, you will find the skeleton of a web application written in Vue.js for finding anagrams of a given input.
 
-Your task is to complete an application by implementing the functionality described in the User Story below. Even though the skeleton uses Vue.js you can use any framework. We actually recommend Next.js given we have just recently updated our stack from Vue to Next.
+Your task is to complete an application by implementing the functionality described in the User Story below. Even though the skeleton uses Vue.js you can use any framework. In fact we encourage you to use Next.js given we have just recently updated our stack from Vue to Next.
 
 Please clone the repository and [email a link to your completed project to the Engineering team](mailto:marton.takacs@reallinks.io).
 
