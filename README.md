@@ -2,7 +2,7 @@
 
 Thank you for your interest in a position with the Engineering team at Real Links!
 
-In this repository, you will find the skeleton of a web application weitten in VUE for finding anagrams of a given input.
+In this repository, you will find the skeleton of a web application written in Vue.js for finding anagrams of a given input.
 
 Your task is to complete an application by implementing the functionality described in the User Story below. Even though the skeleton uses VUE you can use any framework. We actually recommend Next.js given we have just recently updated our stack from Vue to Next.
 
